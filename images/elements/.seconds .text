@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Page not found | Assist-WP</title>
+<link rel="profile" href="../../../../../../gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.assist-wp.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Assist-WP &raquo; Feed" href="../../../../../../www.assist-wp.com/feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="Assist-WP &raquo; Comments Feed" href="../../../../../../www.assist-wp.com/comments/feed/default.htm" />
+<link rel='stylesheet' id='layerslider-css'  href='../../../../../../www.assist-wp.com/wp-content/plugins/LayerSlider/static/css/layerslider.css@ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='../../../../../../fonts.googleapis.com/css@family=Lato_3A100,300,regular,700,900_7COpen+Sans_3A300_7CIndie+Flower_3Aregular_7COswald_3A300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../../../../../../www.assist-wp.com/wp-content/plugins/contact-form-7/includes/css/styles.css@ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='../../../../../../fonts.googleapis.com/css@family=Arvo_3A400,700,400italic,700italic_7CDroid+Serif_3A400,700,400italic,700italic_7CHeadland+One_7CLa06B8D9A433' type='text/css' media='all' />
+<link rel='stylesheet' id='common-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/common.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontello-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/fontello.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/plugins.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/jquery.fancybox.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-thumbs-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/jquery.fancybox-thumbs.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/style.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/fonts.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/theme-woocommerce/woo.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-skin-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/theme-woocommerce/skin-red.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/skin-red.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cache-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/cache/custom.css@ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/css/responsive.css@ver=1.2.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='custom-css'  href='../../../../../../www.assist-wp.com/wp-content/themes/reatro/custom.css@ver=1.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-includes/js/jquery/jquery.js@ver=1.11.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-includes/js/jquery/jquery-migrate.min.js@ver=1.2.1'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js@ver=5.1.1'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/plugins/LayerSlider/static/js/greensock.js@ver=1.11.2'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js@ver=5.1.1'></script>
+</head>
+<body class="error404 ie wide woo">
+<div id="page" class="wrapper">
+<div class="rows">
+
+
+<header class="top-widgets-area hide"><section class="container clearfix"><div class="six column"><div class="inner"><div class="widget widget-social-icons"><div class="social-icons-wrap clearfix"></div></div></div></div><div class="six column"><div class="inner"></div></div></section></header>
+<div class="site-header">
+
+<header class="site-topbar">
+	<section class="container">
+	<div class="inner clearfix">
+	<div class="social-icons top-social-icons"><a href="../../../../../../twitter.com/username" class="twitter" rel="external"><i class="icon twoot-icon-twitter"></i><div class="tip"><div class="text">Twitter<span></span></div></div></a><a href="../../../../../../www.facebook.com/username" class="facebook" rel="external"><i class="icon twoot-icon-facebook"></i><div class="tip"><div class="text">Facebook<span></span></div></div></a><a href="../../../../../../www.assist-wp.com/feed/default.htm" class="rss" rel="external"><i class="icon twoot-icon-rss"></i><div class="tip"><div class="text">Rss<span></span></div></div></a></div>
+	<div class="topbar-right">
+		<nav id="woo-user-menu"><ul class="sf-menu clearfix"><li class="login last"><a href="../../../../../../www.assist-wp.com/my-account/@user_account=login">Sign In</a></li></ul></nav>	<div class="top-search"><a class="top-search-bt open" href="#"><i class="icon twoot-icon"></i></a></div><div class="top-search-wrapper hide"><div id="searchform" class="container"><form action="http://www.assist-wp.com/" method="get" class="inner"><input type="text" class="text-field" name="s" size="24" value="" placeholder="Enter your keywords here..." /><input type="hidden" name="post_type" value="portfolio" /></form></div></div>	</div>
+	</div>
+	</section>
+
+		<a href="#" class="top-widgets-area-switch twoot-icon open" id="toggle-top-widgets-area"></a>
+	</header>
+<!--end #topbar-->
+
+<header class="site-logo">
+	<section class="container">
+	<div class="inner">
+	<div id="logo"><h1 class="title"><a href="../../../../../../www.assist-wp.com/default.htm" title="Assist-WP" rel="nofollow">Assist-WP</a></h1><p class="tagline">Help for your WordPress site</p></div>	</div>
+	</section>
+</header>
+<!--end #logo-->
+
+<header class="site-menu">
+	<section class="container">
+	<div class="inner non-responsive clearfix">
+	<nav id="top-menu"><ul class="sf-menu clearfix"><li id="menu-item-1551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="../../../../../../www.assist-wp.com/default.htm">Shop</a></li>
+<li id="menu-item-1549" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1549"><a href="../../../../../../www.assist-wp.com/blog/default.htm">Blog</a></li>
+<li id="menu-item-1550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="../../../../../../www.assist-wp.com/my-account/default.htm">My Account</a></li>
+</ul></nav>	<div id="woo-mini-cart"><div class="shopping-cart"><a href="../../../../../../www.assist-wp.com/cart/default.htm">Cart:<span class="cart-total"><em class="pay-counts"><span class="amount">&#36;0.00</span></em>&#8211;<em class="item-counts">0</em>item</span></a></div><ul class="cart-list clearfix"><li class="empty">No products in the cart.</li></ul></div>	</div>
+	<nav class="responsive-menu-wrap hide"><div class="responsive-menu-switch-wrap clearfix"><a href="#" class="responsive-menu-switch twoot-icon open" id="toggle-top-responsive-menu"></a><a href="../../../../../../www.assist-wp.com/cart/default.htm" class="responsive-mini-cart"><i class="twoot-icon-shop"></i><em class="item-counts">0</em></a></div><div class="responsive-menu top-responsive-menu hide"><ul><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="../../../../../../www.assist-wp.com/default.htm">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1549"><a href="../../../../../../www.assist-wp.com/blog/default.htm">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="../../../../../../www.assist-wp.com/my-account/default.htm">My Account</a></li>
+</ul></div></nav>	</section>
+</header>
+<!--end #menu-->
+
+</div>
+<!--end #header-->
+<div class="clear"></div>
+
+
+<div class="site-content container pt pb clearfix">
+
+<article id="primary-wrapper">
+	<div class="inner">
+	<div class="page-404">
+		<h2>404</h2>
+		<h3>Oops, This Page Could Not Be Found!</h3>
+		<p>Sorry, but the page you are looking for does not exist. You can try to go to the Homepage and find your way. </p>
+	</div>
+	</div>
+</article>
+<!--end #primary-->
+
+</div>
+<!--end #content-->
+
+<div class="site-footer clear-fixed">
+<footer class="site-bottom has-line">
+	<section class="container">
+	<div class="inner">
+	<div class="social-icons bottom-social-icons"><a href="../../../../../../twitter.com/username" class="twitter" rel="external"><i class="icon twoot-icon-twitter"></i></a><a href="../../../../../../www.facebook.com/username" class="facebook" rel="external"><i class="icon twoot-icon-facebook"></i></a><a href="../../../../../../www.assist-wp.com/feed/default.htm" class="rss" rel="external"><i class="icon twoot-icon-rss"></i></a></div>			<div class="site-copy">Copyright © 2013 <a href="../../../../../../www.assist-wp.com/default.htm">Assist-WP</a>, All rights reserved. Design by <a href="../../../../../../themeforest.net/user/MattMao/default.htm">MattMao</a></div>
+		</div>
+	</section>
+</footer>
+</div>
+<!--end #footer-->
+
+</div>
+</div><!--end #warpper-->
+
+<div id="gotop"><i class="twoot-icon twoot-icon-up-open-big"></i></div>
+
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js@ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"../../../../../../www.assist-wp.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=3.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"../../../../../wp-admin/admin-ajax.php","ajax_loader_url":"../../../../..//www.assist-wp.com/wp-content/plugins/woocommerce/assets/images/ajax-loader_402x.gif","i18n_view_cart":"View Cart","cart_url":"../../../../../../www.assist-wp.com/cart/default.htm","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.assist-wp.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.1.12'></script>
+<script type='text/javascript' src='//www.assist-wp.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"../../../../../wp-admin/admin-ajax.php","ajax_loader_url":"../../../../..//www.assist-wp.com/wp-content/plugins/woocommerce/assets/images/ajax-loader_402x.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.assist-wp.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.1.12'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.easing.min.js@ver=1.3'></script>
+<script type='text/javascript' src='../../../../../../maps.google.com/maps/api/js@sensor=false&ver=1.2.2'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.superfish.js@ver=1.7.3'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.hoverIntent.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.appear.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.countTo.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.preload.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.fitvids.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.bxslider.js@ver=4.1'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.isotope.min.js@ver=1.5.25'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.placeholder.min.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.easytabs.min.js@ver=3.1.1'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.mousewheel.min.js@ver=3.0.6'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.fancybox.pack.js@ver=2.1.5'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.fancybox-media.js@ver=1.0.5'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.fancybox-thumbs.js@ver=1.0.7'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.sticky.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.nicescroll.min.js@ver=3.4.1'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.gmap.min.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/jquery.countdown.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../www.assist-wp.com/wp-content/themes/reatro/js/theme-init.js@ver=1.2.2'></script>
+</body>
+</html>

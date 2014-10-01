@@ -1,0 +1,207 @@
+/* ----- COLOR CHANGE ----- */
+.settings-box {
+    background: #fff;
+    border: 1px solid #cecece;
+    position: fixed;
+    padding: 15px 20px 30px;
+    z-index: 300;
+    margin-top: 200px;
+    width: 197px;
+}
+.settings-box .settings-box-icon {
+    background: #fff;
+    color: #363636;
+    font-size: 22px;
+    position: absolute;
+    margin: -16px 0px 0px 175px;
+    border: 1px solid #cecece;
+    padding: 8px;
+    cursor: pointer;
+    border-left: 0px solid #fff;
+}
+.settings-box .settings-box-title {
+    color: #4b4b4b;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1em;
+    border-bottom: 1px solid #686868;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+.settings-box hr {
+    border-bottom: 1px solid #ddd;
+    border-top: 0px solid #ccc;
+    padding-top: 5px;
+    margin: 0px -20px;
+    margin-bottom: 20px;
+    height: 1px;
+}
+.settings-box select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #c5c5c5;
+    line-height: 1em;
+    color: #4b4b4b;
+    font-size: 12px;
+    height: 30px;
+    outline: none;
+    margin-bottom: 15px;
+}
+.settings-box select:focus {
+    border: 1px solid #22948f;
+}
+.settings-box p {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    color: #4b4b4b;
+    color: #000;
+    line-height: 1em;
+    font-size: 12px;
+}
+.settings-box li {
+    list-style: none;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: red;
+    margin-right: 5px;
+    border: 1px solid #c5c5c5;
+    margin-bottom: 5px;
+    cursor: pointer;
+    *display: inline;
+    *zoom: 1;
+    text-align: center;
+    overflow: hidden;
+}
+.settings-box li img {
+    width: 40px;
+    height: 40px;
+    margin: -10px;
+}
+.settings-box li span {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.settings-box li span.color_1 {
+    background: #1e90ff;
+}
+.settings-box li span.color_2 {
+    background: #ef3c24;
+}
+.settings-box li span.color_3 {
+    background: #e0218a;
+}
+.settings-box li span.color_4 {
+    background: #1bda51;
+}
+.settings-box li span.color-select {
+    background: url('farbtastic/color-select.png') no-repeat center center;
+} 
+.settings-box ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* ----- SLOW ----- */
+.settings-box select {
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
+}
+/* ----- SLOW ----- */
+
+
+/* ======================== BLACK VERSION ======================== */
+.box-wide.black_version {
+    background: #464646;
+    color: #fff;
+}
+.box-wide {
+    width: 100%;
+    background: #fff;
+    overflow: hidden;
+    margin: 0px auto;
+}
+.boxed {
+    background: url(../images/elements/back.jpg) no-repeat fixed top center;
+}
+.boxed .box-wide {
+    width: 1200px;
+}
+/* ======================== BLACK VERSION ======================== */
+
+
+
+
+/* ========================= BUTTONS ========================= */
+.contact_form .contact_button,
+.box-wide.black_version .event .button_white,
+.button_white {
+    color: #000;
+    background: #fff;
+    border: 3px solid #000;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    box-shadow: 0px 4px 0px #a2a2a2;
+}
+.contact_form .contact_button:hover,
+.box-wide.black_version .event .button_white:hover,
+.button_white:hover {
+    background: #000;
+    color: #fff;
+}
+.button_black {
+    color: #fff;
+    background: #000;
+    border: 3px solid #fff;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    box-shadow: 0px 4px 0px #a2a2a2;
+}
+.button_black:hover {
+    color: #fff;
+    background: #565656;
+    border: 3px solid #565656;
+}
+.button_color {
+    color: #fff;
+    background: #22948f;
+    border-bottom: 2px solid #000;
+    padding: 6px 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+.button_color:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    color: #fff;
+}
+/* ========================= BUTTONS ========================= */
+
+
+/* color/layout changer */
+body.animated_change *{
+    -webkit-transition: background-color 1s, color 1s, width 1s, height 1s;
+    -moz-transition: background-color 1s, color 1s, width 1s, height 1s;
+    -ms-transition: background-color 1s, color 1s, width 1s, height 1s;
+    -o-transition: background-color 1s, color 1s, width 1s, height 1s;
+    transition: background-color 1s, color 1s, width 1s, height 1s;
+}
+.settings-box{
+    left: -199px;
+    -webkit-transition: left 0.4s;
+    -moz-transition: left 0.4s;
+    -ms-transition: left 0.4s;
+    -o-transition: left 0.4s;
+    transition: left 0.4s;
+}
