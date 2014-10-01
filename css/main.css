@@ -1,5 +1,8 @@
 
-
+.theme-showcase{
+	top: 115px;
+	position: relative;
+}
 .theme-dropdown .dropdown-menu {
   position: static;
   display: block;
@@ -82,4 +85,12 @@ h3.center {
 }
 .navbar{
 	border-radius: 0 !important;
+}
+
+
+#menu{
+  width: 100%;
+  z-index: 1000;
+  position: fixed;
+  top: 0;
 }
